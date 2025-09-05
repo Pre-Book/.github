@@ -8,3 +8,6 @@
 ![GitHub Repo stars](https://img.shields.io/github/stars/ast3risk-ops/prebook?style=flat-square&cacheSeconds=86400)
 
 </div>
+
+>[!NOTE]
+>Since AME supports ISO injection, PreBook is no longer useful and has been archived.
